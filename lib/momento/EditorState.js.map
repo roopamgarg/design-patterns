@@ -1,0 +1,1 @@
+{"version":3,"file":"EditorState.js","sourceRoot":"","sources":["../../src/momento/EditorState.ts"],"names":[],"mappings":";;AAAA,MAAM,WAAW;IAEf,YAAY,OAAe;QACzB,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;IACzB,CAAC;IAED;;OAEG;IACI,UAAU;QACf,OAAO,IAAI,CAAC,OAAO,CAAC;IACtB,CAAC;CACF;AAED,kBAAe,WAAW,CAAC"}
