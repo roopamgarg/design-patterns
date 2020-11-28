@@ -11,7 +11,6 @@ const main = () => {
   history.push(editor.createState());
   editor.restore(history.pop());
 
-  // tslint:disable-next-line: no-console
   console.log(editor.getContent());
 };
 

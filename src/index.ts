@@ -1,2 +1,4 @@
-import momento from './momento/index';
-momento();
+import momento from './momento';
+import state from './State';
+// momento();
+// state();
