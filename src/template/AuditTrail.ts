@@ -1,6 +1,6 @@
 class AuditTrail {
   public record(): void {
-    console.log('Audit Trail')
+    console.log('Audit Trail');
   }
 }
 
