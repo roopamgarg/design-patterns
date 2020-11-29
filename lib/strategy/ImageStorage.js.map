@@ -1,0 +1,1 @@
+{"version":3,"file":"ImageStorage.js","sourceRoot":"","sources":["../../src/strategy/ImageStorage.ts"],"names":[],"mappings":";;AAGA,MAAM,YAAY;IACT,KAAK,CAAC,QAAgB,EAAE,UAAsB,EAAE,MAAc;QACnE,UAAU,CAAC,QAAQ,CAAC,QAAQ,CAAC,CAAC;QAC9B,MAAM,CAAC,MAAM,CAAC,QAAQ,CAAC,CAAC;IAC1B,CAAC;CACF;AAED,kBAAe,YAAY,CAAC"}

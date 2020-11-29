@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/strategy/index.ts"],"names":[],"mappings":";;;;;AAAA,gFAAwD;AACxD,kEAA0C;AAC1C,oEAA4C;AAE5C,MAAM,IAAI,GAAG,GAAG,EAAE;IAChB,MAAM,YAAY,GAAiB,IAAI,sBAAY,EAAE,CAAC;IACtD,YAAY,CAAC,KAAK,CAAC,MAAM,EAAE,IAAI,uBAAa,EAAE,EAAE,IAAI,6BAAmB,EAAE,CAAC,CAAC;AAC7E,CAAC,CAAC;AAEF,kBAAe,IAAI,CAAC"}
